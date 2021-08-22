@@ -1,0 +1,2 @@
+* Student login password(common)  - student 
+* Teacher login password(common)  - teacher
